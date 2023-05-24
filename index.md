@@ -4,4 +4,4 @@
 
 현재 Private repository에서 작업중입니다.
 
-Busition Organizations: <https://github.com/orgs/busition>
+Busition Organizations: <https://github.com/busition>
