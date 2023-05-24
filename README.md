@@ -2,11 +2,19 @@
 
 # Welcome to Busition
 
-## 창업 준비로 Private Repository에서 작업중입니다
+## 창업 준비로 별도의 Organization에서 작업중이며 Private Repository로 운영됩니다
 
-Busition Organizations: <https://github.com/orgs/busition>
+### Busition Organizations: <https://github.com/busition>
 
-팀 페이지: <https://kookmin-sw.github.io/capstone-2023-17/>
+- 최종 평가를 위해 심사위원분들을 Organization에 초대합니다.
+
+- Organization에 가입 후 소스코드와 커밋 내역 등을 확인할 수 있습니다.
+
+- 초대되지 않은 심사위원 (혹은 추가로 열람을 원하시는분)은 아래 이메일로 github 이메일과 닉네임을 요청해주시면 초대해드리겠습니다.
+
+- 이메일: <wookingwoo@kookmin.ac.kr>
+
+## 팀 페이지: <https://www.busition.io>
 
 ### 1. 프로잭트 소개
 
@@ -14,20 +22,21 @@ Busition Organizations: <https://github.com/orgs/busition>
 
 ### 2. 소개 영상
 
-준비중입니다..
+업로드 준비중입니다..
 
 ### 3. 팀 소개
 
 - 우정헌(팀장)
   - **1644
-  - Busition-api, Busition-socket, Busition-console 담당
+  - Busition-api, Busition-Console 담당
 - 김준혁
   - **1596
-  - Busition-mate 담당
+  - Busition-Mate 담당
 - 유경민
   - **1645
-  - Busition-driver 담당
+  - Busition-Driver, Busition-Socket 담당
 
 ### 4. 사용법
 
-Docker, Jenkins, GitHubActions
+- Docker, Jenkins, GitHubActions
+- 보다 자세한 기술 내용은 [Organizations](https://github.com/busition)에 기록
