@@ -14,6 +14,9 @@
 
 - 이메일: <wookingwoo@kookmin.ac.kr>
 
+![팀17-포스터](https://github.com/kookmin-sw/capstone-2023-17/assets/39684946/0203d826-fe6b-44c1-8ce4-93bfd3412aee)
+
+
 ## 팀 페이지: <https://www.busition.io>
 
 ### 1. 프로잭트 소개
@@ -22,7 +25,7 @@
 
 ### 2. 소개 영상
 
-업로드 준비중입니다..
+[소개 영상 시청하기](https://wkw.one/1zysiin)
 
 ### 3. 팀 소개
 
@@ -40,3 +43,4 @@
 
 - Docker, Jenkins, GitHubActions
 - 보다 자세한 기술 내용은 [Organizations](https://github.com/busition)에 기록
+
